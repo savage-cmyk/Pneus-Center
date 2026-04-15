@@ -23,11 +23,11 @@ import {
   Zap,
   Navigation
 } from 'lucide-react';
-import { Button } from '@/components/ui/button';
-import { Card, CardContent } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
-import { Separator } from '@/components/ui/separator';
-import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
+import { Button } from '@/components/ui/Button';
+import { Card, CardContent } from '@/components/ui/Card';
+import { Badge } from '@/components/ui/Badge';
+import { Separator } from '@/components/ui/Separator';
+import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/Sheet';
 
 const SERVICES = [
   {
